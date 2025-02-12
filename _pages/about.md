@@ -24,7 +24,7 @@ latest_posts:
 ---
 
 Hi! I am an undergrad student interested in all things Reinforcement Learning and Representation Learning.
-My past projects include enabling object-level representations in RL agents, and exploiting uncertainty in Model-based RL for fun and profit.
+My past projects include enabling object-level reasoning in RL agents, and exploiting uncertainty in Model-based RL for fun and profit.
 Presently, I am applying for Masters programs in Computer Science and looking for summer internships.
 
 
