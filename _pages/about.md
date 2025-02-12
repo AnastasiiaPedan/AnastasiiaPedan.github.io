@@ -23,15 +23,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am an undergrad interested in all things Reinforcement Learning and Representation Learning.
+Hi! I am an undergrad student interested in all things Reinforcement Learning and Representation Learning.
 My past projects include enabling object-level representations in RL agents, and exploiting uncertainty in Model-based RL for fun and profit.
+Presently, I am applying for Masters programs in Computer Science and looking for summer internships.
 
 
 A quick summary:
 - almost done with my B.Sc. in Systems Analysis from [NTUU KPI](https://kpi.ua/)
-- participated in the Research Program for Students from Ukraine at UofT in 2023.
-- worked on a research project under the Mitacs GRA program 2023-2024.
-- am working as a research assistant at UofT 2024-now
+- participated in the [Research Program for Students from Ukraine at UofT](https://web.cs.toronto.edu/summer-program-for-students-from-ukraine) in 2023.
+- worked on a research project under the [Mitacs GRA](https://www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/) program 2023-2024.
+- am working as a research assistant at UofT at [Igor Gilitschenski's Toronto ISL](https://tisl.cs.utoronto.ca/) 2024-now
 
 
 
