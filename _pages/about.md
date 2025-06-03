@@ -23,16 +23,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am an undergrad student interested in all things Reinforcement Learning and Representation Learning.
-My past projects include enabling object-level reasoning in RL agents, and exploiting uncertainty in Model-based RL for fun and profit.
-Presently, I am applying for Masters programs in Computer Science and looking for summer internships.
+Hi! I am an (almost graduated) undergraduate student interested in all things Reinforcement Learning and Representation Learning.
+My past projects include enabling object-level reasoning in RL agents, exploiting uncertainty in Model-based RL for fun and profit, and forcing agents to plan their moves ahead.
+
+At the moment I am interning at [Neo Cybernetica](https://www.neocybernetica.com/), and finally tormenting real robots instead of AI agents.
+Also, this Fall I am starting a MSc in Computing Science at [UofA](https://www.ualberta.ca/en/index.html) and joining [Martha White](https://webdocs.cs.ualberta.ca/~whitem/)'s research group.
+
+This July I will be attending ICML 2025 in Vancouver, presenting the paper I worked on with [Claas Voelcker](https://cvoelcker.de/).
 
 
 A quick summary:
-- almost done with my B.Sc. in Systems Analysis from [NTUU KPI](https://kpi.ua/)
-- participated in the [Research Program for Students from Ukraine at UofT](https://web.cs.toronto.edu/summer-program-for-students-from-ukraine) in 2023.
+- almost done with my B.Sc. in System Analysis and Control from [NTUU KPI](https://kpi.ua/)
+- will be starting at UofA this Fall
+- interning at [Neo Cybernetica](https://www.neocybernetica.com/) 
+- worked as a research assistant at UofT at [Igor Gilitschenski's Toronto ISL](https://tisl.cs.utoronto.ca/) 2024-2025
 - worked on a research project under the [Mitacs GRA](https://www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/) program 2023-2024.
-- am working as a research assistant at UofT at [Igor Gilitschenski's Toronto ISL](https://tisl.cs.utoronto.ca/) 2024-now
+- participated in the [Research Program for Students from Ukraine at UofT](https://web.cs.toronto.edu/summer-program-for-students-from-ukraine) in 2023.
 
 
 
