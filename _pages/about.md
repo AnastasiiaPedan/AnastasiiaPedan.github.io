@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am an (almost graduated) undergraduate student interested in all things Reinforcement Learning and Representation Learning.
+Hi! I am an incoming MSc student at the University of Alberta interested in all things Reinforcement Learning and Robotics.
 My past projects include enabling object-level reasoning in RL agents, exploiting uncertainty in Model-based RL for fun and profit, and forcing agents to plan their moves ahead.
 
 At the moment I am interning at [Neo Cybernetica](https://www.neocybernetica.com/), and finally tormenting real robots instead of AI agents.
