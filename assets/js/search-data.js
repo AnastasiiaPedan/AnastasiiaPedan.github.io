@@ -28,7 +28,7 @@ ninja.data = [{
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/drive.google.com/file/d/1qjUdCs-vosNLevv0vKTgds5KEELA5Efz/view?usp=sharing";
+            window.location.href = "/https:/drive.google.com/file/d/1MdAKa5A0RHb9xa_-eASbqalGbps7sPTM/view?usp=sharing";
           },
         },{id: "news-created-this-website-lol",
           title: 'Created this website lol',
