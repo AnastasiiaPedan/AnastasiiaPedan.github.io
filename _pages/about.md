@@ -23,13 +23,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am an incoming MSc student at the University of Alberta interested in all things Reinforcement Learning and Robotics.
-My past projects include enabling object-level reasoning in RL agents, exploiting uncertainty in Model-based RL for fun and profit, and forcing agents to plan their moves ahead.
+Hi! I am a 2nd year MSc student at the University of Alberta interested in all things Reinforcement Learning and Robotics.
+My past projects include enabling exploiting uncertainty in Model-based RL, investigating planning in continuous control problems, and working on embodied AI.
 
 
 A quick summary:
-- MSc in CS at [UofA](https://www.ualberta.ca/en/index.html) at [Martha White](https://webdocs.cs.ualberta.ca/~whitem/)'s research group
+- MSc in CS at [UofA](https://www.ualberta.ca/en/index.html) at [Martha White](https://webdocs.cs.ualberta.ca/~whitem/)'s research group (expected to graduate May 2027)
 - Bachelors in System Analysis and Control from [NTUU KPI](https://kpi.ua/)
+- TAed at the [AI4Good Lab](https://www.ai4goodlab.com/)
 - interned at [Neo Cybernetica](https://www.neocybernetica.com/) 
 - worked as a research assistant at UofT at [Igor Gilitschenski's Toronto ISL](https://tisl.cs.utoronto.ca/) 2024-2025
 - worked on a research project under the [Mitacs GRA](https://www.mitacs.ca/our-programs/globalink-research-award-students-postdocs/) program 2023-2024.
